@@ -1,0 +1,7 @@
+
+Prompt_ID,Task,Weak_Prompt,Improved_Prompt
+P101,Explain photosynthesis,Explain photosynthesis,"Act as a biology teacher. Explain photosynthesis to a student in simple language with an example."
+P102,Write a formal email,Write an email,"Act as a professional assistant. Draft a formal email to a college manager requesting information about admission. Include a subject line."
+P103,Python debugging,Fix my code,"Act as a Python programming tutor. Review my Python code and explain the errors with corrected code and examples."
+P104,Summarize a report,Summarize this,"Act as a report analyst. Summarize the report in five bullet points, highlighting the main findings."
+P105,Compare algorithms,Compare algorithms,"Act as a computer science teacher. Compare sorting algorithms in a table, including their time complexity and examples."
